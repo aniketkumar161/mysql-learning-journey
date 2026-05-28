@@ -1,62 +1,69 @@
 ````md
-# 🚀 MySQL Mastery Journey
+# ⚡ SQL Universe
 
-> A complete collection of my MySQL practice programs, queries, database concepts, and mini projects while learning Database Management Systems.
+<div align="center">
 
-![MySQL Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk2dHZtN3M2Y2p5aWl1OWV3MnA5dndvZWFmNnB0d2Q4a2h6bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif)
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250">
+
+# 🚀 My SQL Learning Repository
+
+### "Building strong database skills one query at a time."
+
+</div>
 
 ---
 
-# 📌 Repository Name Ideas
+# 📌 Best Repository Names
 
-## 🔥 Best Repo Names
-
-- mysql-mastery
-- mysql-learning-journey
-- mysql-practice-hub
-- sql-with-aniket
-- database-learning
-- mysql-query-collection
-- mysql-from-scratch
-- dbms-and-mysql
-- mysql-notes-and-queries
-- mastering-mysql
+- sql-universe
+- mysql-lab
+- query-craft
+- sql-grind
+- mysql-playground
+- database-universe
+- sql-learning-space
+- mysql-codebase
+- query-master
+- mysql-arena
 
 ---
 
 # 📖 About This Repository
 
-This repository contains all my MySQL learning work including:
+Welcome to my MySQL learning repository 👨‍💻
 
-✅ Basic SQL Queries  
-✅ CRUD Operations  
-✅ Joins & Relationships  
-✅ Aggregate Functions  
-✅ Constraints  
-✅ Subqueries  
-✅ Database Design  
-✅ Practice Problems  
-✅ Mini Projects  
-✅ Real-world Query Practice  
+This repo contains all the SQL queries, database concepts, practice questions, and mini projects that I solve while learning DBMS and MySQL.
 
-I am learning MySQL step-by-step and uploading my daily progress here consistently.
+I’m consistently practicing:
+
+✨ SQL Queries  
+✨ Database Design  
+✨ CRUD Operations  
+✨ Joins & Relationships  
+✨ Functions & Constraints  
+✨ Real-world Database Problems  
+✨ Mini Projects  
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tools & Technologies
 
-| Technology | Usage |
+| Tool | Purpose |
 |---|---|
-| MySQL | Database Management |
+| MySQL | Database |
 | SQL | Query Language |
 | DBMS | Database Concepts |
-| VS Code / MySQL Workbench | Writing Queries |
+| MySQL Workbench | Query Execution |
+| VS Code | Practice & Notes |
 
 ---
 
-# 📂 Folder Structure
+# 📂 Repository Structure
 
 ```bash
+SQL-UNIVERSE/
+│
+├── 01-Basic-Qbash
 MYSQL-MASTERY/
 │
 ├── Basics/
