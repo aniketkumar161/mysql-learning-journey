@@ -1,4 +1,3 @@
-````md
 # ⚡ SQL Universe
 
 <div align="center">
@@ -140,9 +139,6 @@ MYSQL-MASTERY/
 ├── Mini-Projects/
 ├── Practice-Questions/
 └── README.md
-````
-
----
 
 # ✨ Topics Covered
 
