@@ -1,263 +1,127 @@
-# ⚡ SQL Universe
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
-# 🚀 My SQL Learning Repository
+# MySQL Journey 🚀
 
-### "Building strong database skills one query at a time."
+### Learning SQL, Databases & Query Optimization Step by Step
+
+<img src="https://skillicons.dev/icons?i=mysql,github,vscode" />
 
 </div>
 
 ---
 
-# 📌 Best Repository Names
+## 📚 About This Repository
 
-- sql-universe
-- mysql-lab
-- query-craft
-- sql-grind
-- mysql-playground
-- database-universe
-- sql-learning-space
-- mysql-codebase
-- query-master
-- mysql-arena
+This repository contains my MySQL learning journey including:
 
----
+- SQL Practice Questions
+- Database Concepts
+- CRUD Operations
+- JOINS & Relationships
+- Mini Projects
+- Real-world Query Practice
 
-# 📖 About This Repository
-
-Welcome to my MySQL learning repository 👨‍💻
-
-This repo contains all the SQL queries, database concepts, practice questions, and mini projects that I solve while learning DBMS and MySQL.
-
-I’m consistently practicing:
-
-✨ SQL Queries  
-✨ Database Design  
-✨ CRUD Operations  
-✨ Joins & Relationships  
-✨ Functions & Constraints  
-✨ Real-world Database Problems  
-✨ Mini Projects  
-
----
-
-# 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| MySQL | Database |
-| SQL | Query Language |
-| DBMS | Database Concepts |
-| MySQL Workbench | Query Execution |
-| VS Code | Practice & Notes |
+I am building this repository to improve my database and backend development skills.
 
 ---
 
 # 📂 Repository Structure
 
 ```bash
-SQL-UNIVERSE/
+mysql-journey/
 │
-├── 01-Basic-Qbash
-MYSQL-MASTERY/
-│
-├── Basics/
-├── CRUD-Operations/
-├── Joins/
-├── Constraints/
-├── Aggregate-Functions/
-├── Subqueries/
-├── Mini-Projects/
-├── Practice-Questions/
+├── basics/
+├── queries/
+├── joins/
+├── mini-projects/
+├── practice-questions/
 └── README.md
-
----
-
-# 📌 Best Repository Names
-
-- sql-universe
-- mysql-lab
-- query-craft
-- sql-grind
-- mysql-playground
-- database-universe
-- sql-learning-space
-- mysql-codebase
-- query-master
-- mysql-arena
-
----
-
-# 📖 About This Repository
-
-Welcome to my MySQL learning repository 👨‍💻
-
-This repo contains all the SQL queries, database concepts, practice questions, and mini projects that I solve while learning DBMS and MySQL.
-
-I’m consistently practicing:
-
-✨ SQL Queries  
-✨ Database Design  
-✨ CRUD Operations  
-✨ Joins & Relationships  
-✨ Functions & Constraints  
-✨ Real-world Database Problems  
-✨ Mini Projects  
-
----
-
-# 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|---|---|
-| MySQL | Database |
-| SQL | Query Language |
-| DBMS | Database Concepts |
-| MySQL Workbench | Query Execution |
-| VS Code | Practice & Notes |
-
----
-
-# 📂 Repository Structure
-
-```bash
-SQL-UNIVERSE/
-│
-├── 01-Basic-Qbash
-MYSQL-MASTERY/
-│
-├── Basics/
-├── CRUD-Operations/
-├── Joins/
-├── Constraints/
-├── Aggregate-Functions/
-├── Subqueries/
-├── Mini-Projects/
-├── Practice-Questions/
-└── README.md
-
-# ✨ Topics Covered
-
-## 📌 SQL Basics
-
-* SELECT Statement
-* WHERE Clause
-* ORDER BY
-* LIMIT
-* DISTINCT
-
-## 📌 CRUD Operations
-
-* INSERT
-* UPDATE
-* DELETE
-* SELECT
-
-## 📌 Joins
-
-* INNER JOIN
-* LEFT JOIN
-* RIGHT JOIN
-* FULL JOIN
-
-## 📌 Functions
-
-* COUNT()
-* SUM()
-* AVG()
-* MIN()
-* MAX()
-
-## 📌 Advanced SQL
-
-* GROUP BY
-* HAVING
-* Nested Queries
-* Subqueries
-* Constraints
-
----
-
-# 📸 Preview
-
-## 🖥️ MySQL Workbench
-
-![MySQL Workbench](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
-
-## ⚡ Writing SQL Queries
-
-![SQL Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q4M2tqYTR0NGVnN2Y0ZzF5eXRvZXFhN3RlNW1pYzN4b3M2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif)
-
----
-
-# 📈 My Learning Goals
-
-* Improve SQL problem-solving skills
-* Learn database optimization
-* Build real-world database projects
-* Strengthen DBMS concepts
-* Prepare for placements & interviews
-
----
-
-# 🌟 Future Plans
-
-🚀 Build Full Stack Projects using MySQL
-🚀 Learn PostgreSQL & MongoDB
-🚀 Connect MySQL with Java & Python
-🚀 Create Real-world Database Projects
-
----
-
-# 🤝 Connect With Me
-
-## 🌐 GitHub
-
-🔗 GitHub Profile:
-[https://github.com/aniketkumar161](https://github.com/aniketkumar161)
-
----
-
-# ⭐ Support
-
-If you like this repository, don't forget to ⭐ star the repo.
-
----
-
-# 📢 Repository Description
-
-📌 "A complete MySQL learning repository containing SQL queries, CRUD operations, joins, constraints, practice problems, and mini database projects while learning DBMS from scratch."
-
----
-
-# 🏷️ Suggested Topics/Tags for GitHub
-
-```text
-mysql sql database dbms mysql-workbench sql-queries backend learning coding beginners github projects
 ```
 
 ---
 
-# 💻 Sample Query
+# 🚀 Topics Covered
 
-```sql
-SELECT name, salary
-FROM employees
-WHERE salary > 50000
-ORDER BY salary DESC;
-```
+## 🔹 SQL Basics
+- Introduction to DBMS
+- SQL Syntax
+- Databases & Tables
+
+## 🔹 CRUD Operations
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+
+## 🔹 Filtering Data
+- WHERE Clause
+- ORDER BY
+- DISTINCT
+- LIMIT
+
+## 🔹 SQL Operators
+- AND / OR / NOT
+- LIKE
+- BETWEEN
+- IN Operator
+
+## 🔹 Functions
+- COUNT()
+- AVG()
+- SUM()
+- MAX()
+- MIN()
+
+## 🔹 Advanced Concepts
+- JOINS
+- GROUP BY
+- HAVING
+- Subqueries
 
 ---
 
-# 🔥 Daily Progress Motivation
+# 🛠️ Technologies Used
 
-> “Small consistent improvements create big results.”
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,python,github,vscode" />
+</p>
 
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+---
 
-```
-```
+# 🎯 Goals
+
+✔ Improve SQL Skills  
+✔ Practice Real-world Queries  
+✔ Build Strong DBMS Concepts  
+✔ Prepare for Backend & Data Science  
+
+---
+
+# 📌 Mini Project Ideas
+
+- Student Management System
+- Library Database
+- Employee Database
+- Inventory System
+
+---
+
+# 🌐 Connect With Me
+
+GitHub: https://github.com/aniketkumar161
+
+---
+
+# ✨ Quote
+
+> “Data is powerful, but SQL makes it useful.”
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my repository ⭐
+
+</div>
