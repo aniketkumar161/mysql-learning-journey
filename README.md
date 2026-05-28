@@ -75,6 +75,71 @@ MYSQL-MASTERY/
 ├── Mini-Projects/
 ├── Practice-Questions/
 └── README.md
+
+---
+
+# 📌 Best Repository Names
+
+- sql-universe
+- mysql-lab
+- query-craft
+- sql-grind
+- mysql-playground
+- database-universe
+- sql-learning-space
+- mysql-codebase
+- query-master
+- mysql-arena
+
+---
+
+# 📖 About This Repository
+
+Welcome to my MySQL learning repository 👨‍💻
+
+This repo contains all the SQL queries, database concepts, practice questions, and mini projects that I solve while learning DBMS and MySQL.
+
+I’m consistently practicing:
+
+✨ SQL Queries  
+✨ Database Design  
+✨ CRUD Operations  
+✨ Joins & Relationships  
+✨ Functions & Constraints  
+✨ Real-world Database Problems  
+✨ Mini Projects  
+
+---
+
+# 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| MySQL | Database |
+| SQL | Query Language |
+| DBMS | Database Concepts |
+| MySQL Workbench | Query Execution |
+| VS Code | Practice & Notes |
+
+---
+
+# 📂 Repository Structure
+
+```bash
+SQL-UNIVERSE/
+│
+├── 01-Basic-Qbash
+MYSQL-MASTERY/
+│
+├── Basics/
+├── CRUD-Operations/
+├── Joins/
+├── Constraints/
+├── Aggregate-Functions/
+├── Subqueries/
+├── Mini-Projects/
+├── Practice-Questions/
+└── README.md
 ````
 
 ---
